@@ -41,7 +41,8 @@
          </li>
         </ul>
        </nav>
-       
+         </header>
+         
        <main id="home">
        <h1 class="lg-heading">
         Holiday Resort
@@ -49,6 +50,6 @@
         <h2 class="sm-heading"></h2>
             Holiday Resort for family vacations in the sunny weather
        </main>
-     </header>      
+         
 </body>
 </html>
